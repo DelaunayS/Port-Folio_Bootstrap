@@ -19,5 +19,5 @@ page2.onclick = function (){
 // ouvre la page de l'accordeon de TP
 let page3= document.getElementById("page3")
 page3.onclick = function (){
-    window.open("https://delaunays.github.io/TPReact//", "_blank");
+    window.open("https://delaunays.github.io/TPReact/", "_blank");
 };
