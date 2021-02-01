@@ -1,4 +1,3 @@
-
 // ouvre le mail dans une fenêtre alert
 let mail= document.getElementById("contact_mail")
 
@@ -16,7 +15,7 @@ page2.onclick = function (){
     window.open("https://delaunays.github.io/WebVisualiserPartie/", "_blank");
 };
 
-// ouvre la page de l'accordeon de TP
+// ouvre la page de l'accordéon de TP
 let page3= document.getElementById("page3")
 page3.onclick = function (){
     window.open("https://delaunays.github.io/TPReact/", "_blank");
