@@ -1,0 +1,30 @@
+body {
+    background-color:rgb(192, 207, 248);
+    width:auto;
+    text-align:center;
+    font-family:Calibri;    
+}   
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+img{
+    width:100%;
+}
+
+.card{
+    background-color:rgb(192, 207, 248);
+    border-radius: 1px solid black;
+    &:hover{    
+    background-color:rgb(24, 65, 177);    
+    transition :0.3s all; 
+
+
+.card-title a{
+    text-decoration:none;
+    color:rgb(0, 0, 0);
+}    

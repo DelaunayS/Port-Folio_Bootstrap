@@ -1,0 +1,31 @@
+body {
+  background-color: #c0cff8;
+  width: auto;
+  text-align: center;
+  font-family: Calibri;
+}
+
+img {
+  width: 100%;
+}
+
+.card {
+  background-color: #c0cff8;
+  border-radius: 1px solid black;
+}
+
+.card-body {
+  border-radius: 1px solid black;
+}
+
+.card:hover {
+  background-color: #5c83ec;
+  -webkit-transition: 0.3s all;
+  transition: 0.3s all;
+}
+
+.card-title a {
+  text-decoration: none;
+  color: black;
+}
+/*# sourceMappingURL=style_index.css.map */
