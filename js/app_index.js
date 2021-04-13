@@ -7,7 +7,7 @@ mail.onclick =function () {alert ("sebastien.delaunay44@gmail.com")};
 // ouvre la page Accordéon de TP
 let page1= document.getElementById("page1")
 page1.onclick = function (){
-    window.open("https://delaunays.github.io/TPReact/", "_blank");
+    window.open("https://delaunays.github.io/TP_portfolio/", "_blank");
 };
 
 // ouvre la page WebMaternelle
